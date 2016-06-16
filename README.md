@@ -1,10 +1,7 @@
 # FreeCodeCampProjects
 Projects I did while learning to code from Free Code Camp's Website.
 
-Links to view projects:
+Links to my portfolio of projects:
 
-Project1: Tribute Website 
-https://codepen.io/draxem/full/LZEoJq/ 
-
-Project2: Portfolio
-http://codepen.io/draxem/full/XKbpyL/
+        Portfolio
+http://codepen.io/draxem/full/rLVjPg/
