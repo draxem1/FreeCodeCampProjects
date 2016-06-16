@@ -1,0 +1,50 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<style type="text/css">
+	body { background-color: #ffa852; }
+	h1	 { font-size: 70px; margin-top: 5%; font-family: fantasy; }
+	button { width: 8%; font-size: 15px; }
+
+	.roundBorder { border-radius: 5%; width: 80px; }
+	#random {font-style: italic; font-size: 30px; color: #fff;}
+	.pos_quote { align: center; padding-top: 8%; margin-right: 30%; margin-left: 30%; height: 25%}
+
+	.twitter {height: 28px; width: 28px; border-radius: 4%; margin-right: 10%}
+</style>
+
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+<script>
+$(document).ready(function() {
+$('#twit').click(function() {
+      var currentQuote = $('#random').text();
+
+      window.open('http://twitter.com/home/?status=' + currentQuote + ' -');
+    });
+});
+</script>
+
+<center><h1>Random Quote Generator</h1>
+<p style="font-size: 20px">Every time the Generate button is clicked, a new quote appears.</p></center>
+</head>
+
+<body id="quote">
+
+	<div  class="pos_quote" align="center" style="padding-top: 8%">
+		<p id="random" >"Watch Me Change!!!"</p>
+	</div>
+
+<div class="container-fluid">
+	<div class="col-xs-5" style="padding-top: 5%">	
+	</div>
+
+	<div class="col-xs-5" align="center" style="padding-top: 5%">
+	<a href="https://twitter.com/intent/tweet" id="twit" target="_blank"><img class="twitter" src="http://i1224.photobucket.com/albums/ee370/draxem/twitter-logo_zpst2v4mzck.png" title="tweet"/></a>
+
+		<button class="roundBorder" type="button" onClick="randomNumber()" title="New Quote">Generate!</button>
+	</div>
+</div>
+</body>
+
+<script src="C:\Users\Dr. Jeckel\Documents\FreeCodeCamp Projects\randomQuote.js">
+</script>
