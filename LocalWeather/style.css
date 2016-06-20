@@ -1,0 +1,15 @@
+h1 { font-size: 60px;}
+
+h2 {margin-top: 10%;}
+
+h3 {margin-top: 3%;}
+
+body { background-color: #0BB5FF; }
+
+#well_1 { height: 300px; background-color: #fff}
+
+.weath_elem { margin-top: 10%; font-size: 18px;}
+
+.descriptor { margin-top: 10%; font-size: 25px; width: 100px; }
+
+#icon { height: 200px; width: 200px; margin-top: 5%; margin-left: 5%;}
