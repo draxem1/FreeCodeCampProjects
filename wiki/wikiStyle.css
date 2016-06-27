@@ -1,0 +1,13 @@
+h1 {text-align: center; font-size: 54px; color: #eee;}
+
+#search {margin: 5% 10%; }
+
+.box {width: 80%; height: 32px}
+
+.btn {height: 5%; background-color: #06233B; color: #fff;}
+
+hr {border-style: inset; border-width: 2px;}
+
+body {background-color: #580000}
+
+#list{margin: 0% 20% 0% 20%;}
