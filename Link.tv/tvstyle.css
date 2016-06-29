@@ -1,0 +1,25 @@
+#header {margin: 1% 29% 1% 29%; background-color: #8A2BE2; border-radius: 1%;}
+
+h1 {text-align: center; padding-top: 3%; padding-bottom: 3%; font-size: 50px; color: #fff;}
+
+.btn {width: 180px; margin-bottom: 2%; background-color: #fff; color: #8A2BE2;}
+
+#All {margin-left: 14%;}
+
+img {height: 80px; width: 80px; border-radius: 5%}
+
+#output {margin-left: 30%; margin-right: 30%;}
+
+.well {margin-top: -2%;}
+
+h2 {vertical-align: center; margin-left: 15%; font-size: 20px;}
+
+p {margin-top: 7%; font-size: 14px;}
+
+#off{background-color: #000;}
+
+.words{color: #fff;}
+
+#on {background-color: #32CD32;}
+
+body {background-color: #8A2BE2;}
