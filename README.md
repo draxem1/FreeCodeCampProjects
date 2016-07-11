@@ -5,3 +5,6 @@ Links to my portfolio of projects:
 
         Portfolio
 http://codepen.io/draxem/full/rLVjPg/
+
+      FreeCodeCamp Profile
+https://www.freecodecamp.com/draxem1
