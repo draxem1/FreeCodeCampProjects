@@ -13,3 +13,7 @@ https://www.freecodecamp.com/draxem1
 https://draxem1.github.io/TicTacToe/  project site.
 
 https://github.com/draxem1/TicTacToe code on github.
+
+https://draxem1.github.io/Simon/    project site.
+
+
