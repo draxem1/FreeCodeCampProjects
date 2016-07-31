@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<link rel="stylesheet" href="C:\Users\Dr. Jeckel\Documents\FreeCodeCamp Projects\Podromo\defaultStyle.css">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+<script src="C:\Users\Dr. Jeckel\Documents\FreeCodeCamp Projects\Podromo\Function2.js"></script>
+
+
+<h1>Pomodoro Time</h1>
+<p id="inst">Start - Double Right Click | Stop - Right Click</p>
+
+<div class="container-fluid">
+<div class="clock">
+<div class="row">
+<div class="col-xs-4">
+		<div class="container-fluid">
+
+		<div class="row" style="margin-top: 12%">
+
+			<div class="col-xs-6" align="center">
+			<p id="type" style="color: #fff">Session</p>
+			</div></div>
+
+		<div id="bottom_row" class="row">
+
+			<div class="col-xs-2" align="center">
+			<p id="break_min" class="val">-</p>
+			</div>
+
+			<div class="col-xs-2" align="center">
+			<p id="break_amt" class="val">1</p>
+			</div>
+
+			<div class="col-xs-2" align="center">
+			<p id="break_plus" class="val">+</p>
+			</div></div>
+			</div></div>
+
+			<div class="col-xs-4" style="margin-left: -10%">
+			<h2 id="total_time"></h2>
+			<canvas id="prog" height="30" width="350"></canvas>
+			</div>
+			</div>
+			</div>
+			</div>
+
+			<div style="margin-left: 59%;">
+			<button id="restLess" type="button" style="margin-left: 1%">Break -</button>
+			<input id="displayB" type="text" name="restTime" disabled>
+			<button id="restMore" type="button" style="">Break +</button>
+			<button id="reset" type="button" style="margin-left: 1%">Reset</button>
+			</div>
+
+			<audio id="audio">
+			<source id="audio" src="C:\Users\Dr. Jeckel\Documents\FreeCodeCamp Projects\Podromo\dt_16bars_102rap.wav" type="audio/wav">
+			</audio>
