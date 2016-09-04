@@ -16,9 +16,8 @@ check it out.
         - And last but not least have fun!
         
 ###Projects
-
--**Portfolio:** http://codepen.io/draxem/full/rLVjPg/
--**FreeCodeCamp Profile:** https://www.freecodecamp.com/draxem1
--**TicTacToe:** https://draxem1.github.io/TicTacToe/ 
--**Simon:** https://draxem1.github.io/Simon/ 
+        -**Portfolio:** http://codepen.io/draxem/full/rLVjPg/
+        -**FreeCodeCamp Profile:** https://www.freecodecamp.com/draxem1
+        -**TicTacToe:** https://draxem1.github.io/TicTacToe/ 
+        -**Simon:** https://draxem1.github.io/Simon/ 
 
