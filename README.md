@@ -1,5 +1,5 @@
 #About
-        These are projects I did while learning to program, using [FreeCodeCamp's]["https://freecodecamp.com"] website.
+These are projects I did while learning to program, using [FreeCodeCamp's](https://freecodecamp.com) website.
 The website is just as it's name, free! It has four courses, but I only did the **Front-End**. It took me a about two
 months to complete. It's very interactive, and I like how after it shows an example of the code, you immediately
 have to input code into a terminal. Some of the bon-fire challenges for javascript are very challenging, at least
@@ -9,7 +9,7 @@ check it out.
 
 ##Advice
         -Don't spend alot of time in the forums!
-        -Google is your friend & so is [Mozilla's]["https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference" Javascript Referance.
+        -Google is your friend & so is [Mozilla's](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) Javascript Referance.
         -Take your time, and don't cheat yourself.
         -Program every day!
         -If you forget use map to go back and look at previous code
@@ -17,15 +17,12 @@ check it out.
         
 ###Projects
 
-        Portfolio
-http://codepen.io/draxem/full/rLVjPg/
-
-      FreeCodeCamp Profile
-https://www.freecodecamp.com/draxem1
-
-                TicTacToe
-https://draxem1.github.io/TicTacToe/  project site.
-
-                Simon
-https://draxem1.github.io/Simon/    project site.
+-**Portfolio**
+        -http://codepen.io/draxem/full/rLVjPg/
+-**FreeCodeCamp Profile**
+        -https://www.freecodecamp.com/draxem1
+-**TicTacToe**
+        -https://draxem1.github.io/TicTacToe/  project site.
+-**Simon**
+        -https://draxem1.github.io/Simon/    project site.
 
