@@ -8,21 +8,21 @@ that may not make you an expert but will give you a huge push towards it! I sugg
 check it out.
 
 ##Advice
-        -Don't spend alot of time in the forums!
-        -Google is your friend & so is [Mozilla's](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) Javascript Referance.
-        -Take your time, and don't cheat yourself.
-        -Program every day!
-        -If you forget use map to go back and look at previous code
-        -And last but not least have fun!
+        - Don't spend alot of time in the forums!
+        - Google is your friend & so is [Mozilla's](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) Javascript Referance.
+        - Take your time, and don't cheat yourself.
+        - Program every day!
+        - If you forget use map to go back and look at previous code
+        - And last but not least have fun!
         
 ###Projects
 
--**Portfolio**
-        -http://codepen.io/draxem/full/rLVjPg/
--**FreeCodeCamp Profile**
-        -https://www.freecodecamp.com/draxem1
--**TicTacToe**
-        -https://draxem1.github.io/TicTacToe/  project site.
--**Simon**
-        -https://draxem1.github.io/Simon/    project site.
+**Portfolio**
+http://codepen.io/draxem/full/rLVjPg/
+**FreeCodeCamp Profile**
+https://www.freecodecamp.com/draxem1
+**TicTacToe**
+https://draxem1.github.io/TicTacToe/ 
+**Simon**
+https://draxem1.github.io/Simon/ 
 
