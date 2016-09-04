@@ -15,9 +15,9 @@ check it out.
         - If you forget use map to go back and look at previous code
         - And last but not least have fun!
         
-###Projects
-        -**Portfolio:** http://codepen.io/draxem/full/rLVjPg/
-        -**FreeCodeCamp Profile:** https://www.freecodecamp.com/draxem1
-        -**TicTacToe:** https://draxem1.github.io/TicTacToe/ 
-        -**Simon:** https://draxem1.github.io/Simon/ 
+##Projects
+        - http://codepen.io/draxem/full/rLVjPg/  Portfolio
+        - https://www.freecodecamp.com/draxem1   FreeCodeCamp profile
+        - https://draxem1.github.io/TicTacToe/   Tic-Tac-Toe
+        - https://draxem1.github.io/Simon/       Simon
 
