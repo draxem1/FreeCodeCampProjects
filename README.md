@@ -9,7 +9,7 @@ check it out.
 
 ##Advice
         - Don't spend alot of time in the forums!
-        - Google is your friend & so is [Mozilla's](https://developer.mozilla.org) Javascript Referance.
+        - Google is your friend & so is Mozilla's javascript referance.
         - Take your time, and don't cheat yourself.
         - Program every day!
         - If you forget use map to go back and look at previous code
@@ -17,12 +17,8 @@ check it out.
         
 ###Projects
 
-        **Portfolio**
-http://codepen.io/draxem/full/rLVjPg/
-        **FreeCodeCamp Profile**
-https://www.freecodecamp.com/draxem1
-        **TicTacToe**
-https://draxem1.github.io/TicTacToe/ 
-        **Simon**
-https://draxem1.github.io/Simon/ 
+-**Portfolio:** http://codepen.io/draxem/full/rLVjPg/
+-**FreeCodeCamp Profile:** https://www.freecodecamp.com/draxem1
+-**TicTacToe:** https://draxem1.github.io/TicTacToe/ 
+-**Simon:** https://draxem1.github.io/Simon/ 
 
